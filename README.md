@@ -68,12 +68,6 @@ python main.py -h
 
 ## Project Status
 This project is under active development and is expected to be completed on schedule.
-
----
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on code of conduct and the process for submitting pull requests.
-
 ---
 
 ## Acknowledgements
