@@ -33,6 +33,7 @@ This project aims to develop an Automatic Number Plate Recognition (ANPR) system
 - OpenCV for image processing
 - TensorFlow/Keras for deep learning
 - Plotly for visualization
+- RESNET V2 Segmentation model is used
 
 ---
 
